@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-07T23:32:07+01:00",
+ "generatedAt": "2026-11-07T23:49:29+01:00",
  "deals": [
   {
    "brand": "Egger",
@@ -1216,6 +1216,7 @@
  ],
  "meta": {
   "label": "7. November 2026",
+  "week": "KW 45 · Flugblätter 14. Okt.–18. Nov.",
   "sources": [
    {
     "name": "marktguru.at",
@@ -1229,7 +1230,6 @@
     "name": "sparkorb.at",
     "url": "https://sparkorb.at/angebote/bier"
    }
-  ],
-  "week": "KW 45 · Flugblätter 14. Okt.–18. Nov."
+  ]
  }
 }
