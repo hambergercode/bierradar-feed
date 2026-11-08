@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-08T00:09:41+01:00",
+ "generatedAt": "2026-11-08T05:40:29+01:00",
  "deals": [
   {
    "id": "chiemseer-mpreis-20-kw45",
@@ -825,7 +825,14 @@
    "retailerUrl": "https://aktionsradar.at/flugblatt/eurospar/aktuelle-angebote-546",
    "states": [
     "W",
-    "NOE"
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
    ],
    "types": [
     "Märzen"
@@ -1318,7 +1325,7 @@
  "promos": [
   {
    "detail": "Rabattpickerl aus dem Flugblatt bzw. der jö äpp an der Kassa einlösen: pro Tag bis zu 3 Pickerl plus 3 jö-äpp-Pickerl, je Pickerl ein Produkt. Gilt auch für Bier: eine originale Kiste, ein Tray oder Träger zählt als ein Stück. Nicht kombinierbar mit anderen Rabatten sowie Gratis- und Extrem-Aktionen (1+1, 2+1 usw.).",
-   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 07.11.); die Pickerl wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
+   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 08.11.); die Pickerl wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1341,7 +1348,7 @@
   },
   {
    "detail": "Einmal pro Monat bis zu 20 % auf einen ganzen Einkauf bis 250 €, gegen Ös im jö Bonus Club. Nicht mit anderen Rabatten kombinierbar.",
-   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 07.11.).",
+   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 08.11.).",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
