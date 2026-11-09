@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-08T05:40:29+01:00",
+ "generatedAt": "2026-11-09T05:40:11+01:00",
  "deals": [
   {
    "id": "chiemseer-mpreis-20-kw45",
@@ -481,6 +481,33 @@
    "id": "jelen-lidl-05-kw45"
   },
   {
+   "id": "jelen-lidl-05-kw46",
+   "brand": "Jelen",
+   "product": "Jelen Helles Bier",
+   "types": [
+    "Helles"
+   ],
+   "retailer": "Lidl",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 1.39,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/helles-bier-05-l-59308"
+  },
+  {
    "id": "kaiser-mpreis-20-kw45",
    "brand": "Kaiser",
    "product": "Kaiser Bier Märzen Fasstyp Kiste",
@@ -634,6 +661,29 @@
    "validTo": "2026-11-15",
    "volumeL": 0.5,
    "id": "radler-lagerhaus-6"
+  },
+  {
+   "id": "rieder-maximarkt-20-kw46",
+   "brand": "Rieder",
+   "product": "Rieder Märzen Kiste",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Maximarkt",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 13.4,
+   "regular": 20.6,
+   "validFrom": "2026-11-04",
+   "validTo": "2026-11-11",
+   "states": [
+    "OOE",
+    "S"
+   ],
+   "pack": "Flasche",
+   "container": "Mehrweg",
+   "url": "https://aktionsradar.at/angebot/rieder-maerzen-05-liter-57779"
   },
   {
    "brand": "Samson",
@@ -1371,8 +1421,8 @@
   }
  ],
  "meta": {
-  "label": "8. November 2026",
-  "week": "KW 45 · Flugblätter 14.10.–18.11.",
+  "label": "9. November 2026",
+  "week": "KW 46 · Flugblätter 14.10.–18.11.",
   "sources": [
    {
     "name": "marktguru.at",
