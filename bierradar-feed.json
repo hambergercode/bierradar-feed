@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-09T05:40:11+01:00",
+ "generatedAt": "2026-11-10T05:41:16+01:00",
  "deals": [
   {
    "id": "chiemseer-mpreis-20-kw45",
@@ -27,6 +27,31 @@
    "pack": "Flasche",
    "regular": 24.99,
    "note": "Preis mit Sternchen im Flugblatt – Bedingungen in der Filiale prüfen"
+  },
+  {
+   "id": "corona-mpreis-tray-6-kw46",
+   "brand": "Corona",
+   "product": "Corona Extra oder Cero 0,0 %",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "MPREIS",
+   "format": "Tray",
+   "units": 6,
+   "volumeL": 0.355,
+   "price": 6.66,
+   "regular": 13.32,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://aktionsradar.at/angebot/corona-extra-oder-cero-59765",
+   "pack": "Flasche"
   },
   {
    "id": "desperados-mpreis-tray-6-kw45",
@@ -79,6 +104,34 @@
    "pack": "Flasche",
    "regular": 8.7,
    "note": "Preis exkl. Pfand"
+  },
+  {
+   "id": "gambrinus-penny-05-kw46",
+   "brand": "Gambrinus",
+   "product": "Gambrinus 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "Penny",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.44,
+   "regular": 0.64,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-15",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/gambrinus-05-l-59946"
   },
   {
    "brand": "Gösser",
@@ -215,6 +268,31 @@
    "regular": 29.8
   },
   {
+   "id": "goesser-mpreis-20-kw46",
+   "brand": "Gösser",
+   "product": "Gösser Märzen oder Radler Kiste",
+   "types": [
+    "Märzen",
+    "Radler"
+   ],
+   "retailer": "MPREIS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 15.8,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://aktionsradar.at/angebot/maerzen-oder-radler-kiste-59634",
+   "pack": "Flasche"
+  },
+  {
    "id": "goesser-mpreis-tray-12-033-kw45",
    "brand": "Gösser",
    "product": "Gösser Tray",
@@ -238,6 +316,34 @@
    "url": "https://aktionsradar.at/angebot/goesser-tray-12-x-56130",
    "pack": "Flasche",
    "regular": 17.16
+  },
+  {
+   "id": "goesser-penny-20-kw46",
+   "brand": "Gösser",
+   "product": "Gösser Märzen Kiste",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Penny",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.0,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-14",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/maerzen-20-x-05-59669",
+   "pack": "Flasche"
   },
   {
    "brand": "Gösser",
@@ -562,6 +668,30 @@
    "id": "kblondes-hofer-1-kw46"
   },
   {
+   "id": "kozel-mpreis-4-kw46",
+   "brand": "Kozel",
+   "product": "Kozel Premium Lager 4er",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "MPREIS",
+   "format": "Tray",
+   "units": 4,
+   "volumeL": 0.5,
+   "price": 3.96,
+   "regular": 5.8,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://aktionsradar.at/angebot/kozel-premium-lager-4-59768"
+  },
+  {
    "brand": "Puntigamer",
    "condition": "ab 24 Flaschen",
    "container": "Einweg",
@@ -615,6 +745,36 @@
    "validTo": "2026-11-15",
    "volumeL": 0.5,
    "id": "puntigamer-lagerhaus-20"
+  },
+  {
+   "id": "puntigamer-penny-05-kw46",
+   "brand": "Puntigamer",
+   "product": "Puntigamer Märzen 0,5 l Dose",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Penny",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.59,
+   "regular": 1.55,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/puntigamer-05-l-59689",
+   "pack": "Dose",
+   "condition": "Penny Pack ab 24 Dosen"
   },
   {
    "brand": "Gösser",
@@ -744,6 +904,35 @@
    "validTo": "2026-11-11",
    "volumeL": 0.5,
    "id": "samson-billaplus-20-kw45"
+  },
+  {
+   "id": "schwechater-billa-05-kw46",
+   "brand": "Schwechater",
+   "product": "Schwechater Bier 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.49,
+   "regular": 1.38,
+   "validFrom": "2026-11-11",
+   "validTo": "2026-11-18",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/schwechater-bier-05-liter-56541",
+   "note": "Bedingungen im Flugblatt prüfen"
   },
   {
    "brand": "Schwechater",
@@ -1168,6 +1357,120 @@
    "note": "Preis exkl. Pfand"
   },
   {
+   "id": "stiegl-mpreis-tray-6-kw46",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu Tray",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "MPREIS",
+   "format": "Tray",
+   "units": 6,
+   "volumeL": 0.5,
+   "price": 4.99,
+   "regular": 9.3,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-tray-6-59762",
+   "pack": "Flasche"
+  },
+  {
+   "id": "stiegl-penny-033-kw46",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu 0,33 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Penny",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.33,
+   "price": 0.69,
+   "regular": 1.29,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-15",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-033-l-59942"
+  },
+  {
+   "id": "stiegl-penny-033pack-kw46",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu 0,33 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Penny",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.33,
+   "price": 0.64,
+   "regular": 1.29,
+   "validFrom": "2026-11-16",
+   "validTo": "2026-11-18",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-033-l-59943",
+   "pack": "Flasche",
+   "condition": "Penny Pack ab 12 Flaschen",
+   "note": "Pfandfrei"
+  },
+  {
+   "id": "stiegl-penny-05-kw46",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu 0,5 l Dose",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Penny",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.77,
+   "regular": 1.59,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-14",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://aktionsradar.at/angebot/goldbraeu-05-l-59670",
+   "pack": "Dose",
+   "condition": "ab 24 Dosen je 0,77 € (einzeln 1,59 €)"
+  },
+  {
    "brand": "Stiegl",
    "condition": "ab 6 Stück",
    "container": "Dose",
@@ -1317,6 +1620,31 @@
    "note": "Preis exkl. Pfand"
   },
   {
+   "id": "zipfer-mpreis-tray-6-033-kw46",
+   "brand": "Zipfer",
+   "product": "Zipfer Märzen Tray",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "MPREIS",
+   "format": "Tray",
+   "units": 6,
+   "volumeL": 0.33,
+   "price": 3.99,
+   "regular": 6.9,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://aktionsradar.at/angebot/zipfer-maerzen-tray-6-59770",
+   "pack": "Flasche"
+  },
+  {
    "id": "zipfer-mpreis-tray-6-kw45",
    "brand": "Zipfer",
    "product": "Zipfer Märzen Tray",
@@ -1421,7 +1749,7 @@
   }
  ],
  "meta": {
-  "label": "9. November 2026",
+  "label": "10. November 2026",
   "week": "KW 46 · Flugblätter 14.10.–18.11.",
   "sources": [
    {
