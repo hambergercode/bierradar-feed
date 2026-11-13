@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-12T05:43:25+01:00",
+ "generatedAt": "2026-11-13T05:41:43+01:00",
  "deals": [
   {
    "id": "chiemseer-mpreis-20-kw45",
@@ -41,6 +41,7 @@
    "volumeL": 0.355,
    "price": 1.49,
    "regular": 2.25,
+   "validFrom": "2026-11-12",
    "validTo": "2026-11-18",
    "states": [
     "NOE",
@@ -51,10 +52,11 @@
     "K",
     "T"
    ],
+   "condition": "ab 6 Stück",
    "pack": "Flasche",
    "container": "Flasche",
    "note": "Bundesländer nicht im Flugblatt angegeben – Verfügbarkeit in deiner ADEG-Filiale prüfen",
-   "url": "https://www.marktguru.at/c/bier"
+   "url": "https://aktionsradar.at/angebot/corona-extra-0355-liter-61621"
   },
   {
    "id": "corona-billaplus-0355-kw46",
@@ -231,6 +233,27 @@
    "condition": "ab 24 Dosen"
   },
   {
+   "id": "fohrenburger-spar-20-kw46",
+   "brand": "Fohrenburger",
+   "product": "Fohrenburger Jubiläum",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "SPAR / Eurospar / Interspar",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 13.2,
+   "validFrom": "2026-11-11",
+   "validTo": "2026-11-18",
+   "states": [
+    "V"
+   ],
+   "pack": "Flasche",
+   "note": "Regionale Aktion (Fohrenburger- und Engelburg-Aktion bei SPAR); Bundesländer nicht angegeben – Angebot in deiner Filiale prüfen",
+   "url": "https://www.marktguru.at/b/fohrenburger"
+  },
+  {
    "id": "gambrinus-penny-05-kw46",
    "brand": "Gambrinus",
    "product": "Gambrinus 0,5 l Dose (div. Sorten)",
@@ -273,6 +296,7 @@
    "volumeL": 0.5,
    "price": 14.8,
    "regular": 29.8,
+   "validFrom": "2026-11-12",
    "validTo": "2026-11-18",
    "states": [
     "NOE",
@@ -285,7 +309,7 @@
    ],
    "pack": "Flasche",
    "note": "Bundesländer nicht im Flugblatt angegeben – Verfügbarkeit in deiner ADEG-Filiale prüfen",
-   "url": "https://www.marktguru.at/c/bier"
+   "url": "https://aktionsradar.at/angebot/maerzen-20-x-05-61494"
   },
   {
    "id": "goesser-billa-033-kw46",
@@ -347,6 +371,36 @@
    "pack": "Flasche",
    "url": "https://aktionsradar.at/angebot/goesser-maerzen-05-liter-60294",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa/aktuelle-angebote-563"
+  },
+  {
+   "id": "goesser-billaplus-20-kw46",
+   "brand": "Gösser",
+   "product": "Gösser Märzen",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA PLUS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "note": "auch im 6er-Träger",
+   "url": "https://aktionsradar.at/angebot/goesser-maerzen-1-kiste-60242",
+   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567"
   },
   {
    "brand": "Gösser",
@@ -537,36 +591,6 @@
    "retailerUrl": "https://aktionsradar.at/flugblatt/maximarkt/aktuelles-flugblatt-569",
    "pack": "Flasche",
    "condition": "max. 4 Kisten pro Haushalt"
-  },
-  {
-   "brand": "Kühles Blondes",
-   "container": "Dose",
-   "format": "Einzel",
-   "pack": "Dose",
-   "price": 0.59,
-   "product": "Kühles Blondes Märzen (Ottakringer)",
-   "retailer": "Hofer",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/hofer/aktuelle-angebote-540",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "types": [
-    "Märzen"
-   ],
-   "units": 1,
-   "url": "https://aktionsradar.at/angebot/kuehles-blondes-maerzen-05-57638",
-   "validFrom": "2026-11-09",
-   "validTo": "2026-11-12",
-   "volumeL": 0.5,
-   "id": "kblondes-hofer-1-kw46"
   },
   {
    "id": "kozel-mpreis-4-kw46",
@@ -835,6 +859,36 @@
    "url": "https://aktionsradar.at/angebot/ottakringer-spezialitaeten-05-liter-60008",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567",
    "pack": "Dose"
+  },
+  {
+   "id": "puntigamer-billaplus-20-kw46",
+   "brand": "Puntigamer",
+   "product": "Puntigamer Märzen",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA PLUS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 13.8,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "note": "auch im 6er-Träger",
+   "url": "https://aktionsradar.at/angebot/puntigamer-maerzen-1-kiste-60273",
+   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567"
   },
   {
    "id": "puntigamer-hofer-05-kw46",
@@ -1903,7 +1957,7 @@
   }
  ],
  "meta": {
-  "label": "12. November 2026",
+  "label": "13. November 2026",
   "week": "KW 46 · Flugblätter 14.10.–21.11.",
   "sources": [
    {
