@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-14T05:43:31+01:00",
+ "generatedAt": "2026-11-15T05:44:32+01:00",
  "deals": [
   {
    "id": "chiemseer-mpreis-20-kw45",
@@ -370,7 +370,8 @@
    ],
    "pack": "Flasche",
    "url": "https://aktionsradar.at/angebot/goesser-maerzen-05-liter-60294",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa/aktuelle-angebote-563"
+   "retailerUrl": "https://aktionsradar.at/flugblatt/billa/aktuelle-angebote-563",
+   "note": "BILLA-Kistenpreise sind teils regional – Flugblatt deiner Region prüfen"
   },
   {
    "id": "goesser-billaplus-20-kw46",
@@ -398,7 +399,7 @@
     "V"
    ],
    "pack": "Flasche",
-   "note": "auch im 6er-Träger",
+   "note": "auch im 6er-Träger; BILLA-Kistenpreise sind teils regional – Flugblatt deiner Region prüfen",
    "url": "https://aktionsradar.at/angebot/goesser-maerzen-1-kiste-60242",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567"
   },
@@ -426,6 +427,37 @@
    "id": "goesser-lagerhaus-20"
   },
   {
+   "id": "goesser-lidl-033-kw47",
+   "brand": "Gösser",
+   "product": "Gösser Märzen 0,33 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Lidl",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.33,
+   "price": 0.64,
+   "regular": 1.29,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-21",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "container": "Flasche",
+   "note": "Max. Abgabemenge: 90 Flaschen",
+   "url": "https://www.marktguru.at/b/goesser"
+  },
+  {
    "id": "goesser-mpreis-20-kw46",
    "brand": "Gösser",
    "product": "Gösser Märzen oder Radler Kiste",
@@ -448,34 +480,6 @@
     "OOE"
    ],
    "url": "https://aktionsradar.at/angebot/maerzen-oder-radler-kiste-59634",
-   "pack": "Flasche"
-  },
-  {
-   "id": "goesser-penny-20-kw46",
-   "brand": "Gösser",
-   "product": "Gösser Märzen Kiste",
-   "types": [
-    "Märzen"
-   ],
-   "retailer": "Penny",
-   "format": "Kiste",
-   "units": 20,
-   "volumeL": 0.5,
-   "price": 14.0,
-   "validFrom": "2026-11-12",
-   "validTo": "2026-11-14",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/maerzen-20-x-05-59669",
    "pack": "Flasche"
   },
   {
@@ -509,6 +513,28 @@
    "note": "Keine weiteren Rabatte oder Joker möglich",
    "url": "https://aktionsradar.at/angebot/heineken-oder-heineken-alkoholfrei-61352",
    "retailerUrl": "https://aktionsradar.at/flugblatt/spar/aktuelle-angebote-574"
+  },
+  {
+   "id": "hirter-billa-20-kw46",
+   "brand": "Hirter",
+   "product": "Hirter Märzen Kiste 20 × 0,5 l",
+   "retailer": "BILLA",
+   "price": 15.8,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "K",
+    "T"
+   ],
+   "note": "Gültig in Kärnten und Osttirol; auch im 6er-Träger",
+   "url": "https://www.marktguru.at/b/hirter",
+   "types": [
+    "Märzen"
+   ],
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "pack": "Flasche"
   },
   {
    "id": "jelen-lidl-05-kw46",
@@ -566,6 +592,37 @@
    ],
    "url": "https://aktionsradar.at/angebot/kaiser-fasstypl-1-kiste-60300",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa/aktuelle-angebote-563",
+   "pack": "Flasche",
+   "note": "BILLA-Kistenpreise sind teils regional – Flugblatt deiner Region prüfen"
+  },
+  {
+   "id": "kaiser-lidl-20-kw47",
+   "brand": "Kaiser",
+   "product": "Kaiser Fasstyp Märzen Kiste 20 × 0,5 l",
+   "retailer": "Lidl",
+   "price": 14.8,
+   "regular": 24.4,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-21",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "note": "mit Lidl Plus App 12,80 €",
+   "url": "https://www.marktguru.at/b/kaiser",
+   "types": [
+    "Märzen"
+   ],
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
    "pack": "Flasche"
   },
   {
@@ -677,51 +734,38 @@
    "retailerUrl": "https://aktionsradar.at/flugblatt/spar/aktuelle-angebote-574"
   },
   {
-   "id": "ottakringer-billaplus-033-kw46",
-   "brand": "Ottakringer",
-   "product": "Ottakringer Helles oder Lager 0,33 l",
-   "types": [
-    "Helles",
-    "Lager"
-   ],
-   "retailer": "BILLA PLUS",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.33,
-   "price": 0.64,
-   "regular": 1.28,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-14",
+   "id": "murauer-billa-20-kw46",
+   "brand": "Murauer",
+   "product": "Murauer Märzen Kiste 20 × 0,5 l",
+   "retailer": "BILLA",
+   "price": 16.8,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
    "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
     "ST",
     "K",
     "T",
-    "V"
+    "B"
    ],
-   "url": "https://aktionsradar.at/angebot/ottakringer-helles-od-lager-60010",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567",
+   "note": "Gültig in der Steiermark, in Kärnten, Osttirol und im südlichen Burgenland; auch im 6er-Träger",
+   "url": "https://www.marktguru.at/b/murauer",
+   "types": [
+    "Märzen"
+   ],
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
    "pack": "Flasche"
   },
   {
-   "id": "ottakringer-helles-billaplus-05-dose-kw46",
-   "brand": "Ottakringer",
-   "product": "Ottakringer Helles",
-   "types": [
-    "Helles"
-   ],
-   "retailer": "BILLA PLUS",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.5,
-   "price": 0.69,
-   "regular": 1.39,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-14",
+   "id": "murauer-lidl-20-kw47",
+   "brand": "Murauer",
+   "product": "Murauer Märzen Kiste 20 × 0,5 l",
+   "retailer": "Lidl",
+   "price": 14.8,
+   "regular": 24.4,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-21",
    "states": [
     "W",
     "NOE",
@@ -733,39 +777,14 @@
     "T",
     "V"
    ],
-   "pack": "Dose",
-   "container": "Dose",
-   "url": "https://aktionsradar.at/angebot/ottakringer-helles-05-liter-60007",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567"
-  },
-  {
-   "id": "ottakringer-helles-billaplus-tray-6-kw46",
-   "brand": "Ottakringer",
-   "product": "Ottakringer Helles 6 × 0,5 l",
+   "note": "mit Lidl Plus App 14,40 €",
+   "url": "https://www.marktguru.at/b/murauer",
    "types": [
-    "Helles"
+    "Märzen"
    ],
-   "retailer": "BILLA PLUS",
-   "format": "Tray",
-   "units": 6,
+   "format": "Kiste",
+   "units": 20,
    "volumeL": 0.5,
-   "price": 3.87,
-   "regular": 7.74,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-14",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/ottakringer-helles-6x05-liter-60012",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567",
    "pack": "Flasche"
   },
   {
@@ -831,36 +850,6 @@
    "retailerUrl": "https://aktionsradar.at/flugblatt/spar/aktuelle-angebote-574"
   },
   {
-   "id": "ottakringer-spezial-billaplus-05-kw46",
-   "brand": "Ottakringer",
-   "product": "Ottakringer Spezialitäten 0,5 l Dose (versch. Sorten)",
-   "types": [
-    "Spezial"
-   ],
-   "retailer": "BILLA PLUS",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.5,
-   "price": 0.74,
-   "regular": 1.49,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-14",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/ottakringer-spezialitaeten-05-liter-60008",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567",
-   "pack": "Dose"
-  },
-  {
    "id": "puntigamer-billaplus-20-kw46",
    "brand": "Puntigamer",
    "product": "Puntigamer Märzen",
@@ -875,48 +864,15 @@
    "validFrom": "2026-11-12",
    "validTo": "2026-11-18",
    "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
     "ST",
     "K",
     "T",
-    "V"
+    "B"
    ],
    "pack": "Flasche",
-   "note": "auch im 6er-Träger",
+   "note": "Gültig in der Steiermark, in Kärnten, Osttirol und im südlichen Burgenland; auch im 6er-Träger",
    "url": "https://aktionsradar.at/angebot/puntigamer-maerzen-1-kiste-60273",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567"
-  },
-  {
-   "id": "puntigamer-hofer-05-kw46",
-   "brand": "Puntigamer",
-   "product": "Puntigamer Märzen 0,5 l",
-   "types": [
-    "Märzen"
-   ],
-   "retailer": "Hofer",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.5,
-   "price": 0.77,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-21",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/puntigamer-maerzen-05-l-61030",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/hofer/aktuelle-angebote-570"
   },
   {
    "brand": "Puntigamer",
@@ -1207,7 +1163,7 @@
    "condition": "ab 6 Flaschen",
    "container": "Mehrweg",
    "format": "Einzel",
-   "note": "Einzelflasche 1,50 €; solange der Vorrat reicht",
+   "note": "Einzelflasche 1,50 €; in Vorarlberg nicht erhältlich; solange der Vorrat reicht",
    "pack": "Flasche",
    "price": 1.19,
    "product": "Schwechater Wiener Lager oder Zwickl",
@@ -1222,8 +1178,7 @@
     "S",
     "ST",
     "K",
-    "T",
-    "V"
+    "T"
    ],
    "types": [
     "Lager",
@@ -1293,131 +1248,6 @@
    "id": "schwechater-spar-05"
   },
   {
-   "brand": "Schwechater",
-   "condition": "ab 24 Dosen, mit Gutschein",
-   "container": "Dose",
-   "format": "Einzel",
-   "note": "Nur mit Gutschein aus dem SPAR-Gutscheinheft; 24 Dosen = 14,16 €; solange der Vorrat reicht",
-   "pack": "Dose",
-   "price": 0.59,
-   "product": "Schwechater Bier",
-   "regular": 1.38,
-   "retailer": "SPAR",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/spar/gutscheinheft-441",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "types": [
-    "Märzen"
-   ],
-   "units": 1,
-   "url": "https://aktionsradar.at/angebot/bier-05-liter-46040",
-   "validFrom": "2026-10-14",
-   "validTo": "2026-11-14",
-   "volumeL": 0.5,
-   "id": "schwechater-spar-gutschein-dose"
-  },
-  {
-   "id": "stiegl-billaplus-033-kw46",
-   "brand": "Stiegl",
-   "product": "Stiegl Goldbräu 0,33 l",
-   "types": [
-    "Märzen"
-   ],
-   "retailer": "BILLA PLUS",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.33,
-   "price": 0.67,
-   "regular": 1.34,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-14",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-033-liter-60011",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567",
-   "pack": "Flasche"
-  },
-  {
-   "id": "stiegl-billaplus-05-dose-kw46",
-   "brand": "Stiegl",
-   "product": "Stiegl Goldbräu oder Hell 0,5 l Dose",
-   "types": [
-    "Märzen",
-    "Helles"
-   ],
-   "retailer": "BILLA PLUS",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.5,
-   "price": 0.79,
-   "regular": 1.59,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-14",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-05-liter-60009",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567",
-   "pack": "Dose"
-  },
-  {
-   "id": "stiegl-billaplus-20-kw46",
-   "brand": "Stiegl",
-   "product": "Stiegl Goldbräu od. Hell",
-   "types": [
-    "Märzen",
-    "Helles"
-   ],
-   "retailer": "BILLA PLUS",
-   "format": "Kiste",
-   "units": 20,
-   "volumeL": 0.5,
-   "price": 14.8,
-   "regular": 29.6,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-14",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "pack": "Flasche",
-   "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-od-hell-60003",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567"
-  },
-  {
    "id": "stiegl-hofer-05-kw47",
    "brand": "Stiegl",
    "product": "Stiegl Goldbräu 0,5 l Dose",
@@ -1445,6 +1275,38 @@
    "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-05-l-61126",
    "retailerUrl": "https://aktionsradar.at/flugblatt/hofer/aktuelle-angebote-570",
    "pack": "Dose"
+  },
+  {
+   "id": "stiegl-lidl-05-dose-kw47",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu oder Hell 0,5 l Dose",
+   "types": [
+    "Märzen",
+    "Helles"
+   ],
+   "retailer": "Lidl",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.79,
+   "regular": 1.59,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-21",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Dose",
+   "container": "Dose",
+   "note": "Max. Abgabemenge: 120 Dosen",
+   "url": "https://www.marktguru.at/b/stiegl"
   },
   {
    "id": "stiegl-maximarkt-20-kw46",
@@ -1558,36 +1420,6 @@
    "note": "Pfandfrei"
   },
   {
-   "id": "stiegl-penny-05-kw46",
-   "brand": "Stiegl",
-   "product": "Stiegl Goldbräu 0,5 l Dose",
-   "types": [
-    "Märzen"
-   ],
-   "retailer": "Penny",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.5,
-   "price": 0.77,
-   "regular": 1.59,
-   "validFrom": "2026-11-12",
-   "validTo": "2026-11-14",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/goldbraeu-05-l-59670",
-   "pack": "Dose",
-   "condition": "ab 24 Dosen je 0,77 € (einzeln 1,59 €)"
-  },
-  {
    "brand": "Stiegl",
    "condition": "ab 6 Stück",
    "container": "Dose",
@@ -1680,7 +1512,8 @@
    ],
    "url": "https://aktionsradar.at/angebot/wieselburger-gold-05-liter-60293",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa/aktuelle-angebote-563",
-   "pack": "Flasche"
+   "pack": "Flasche",
+   "note": "BILLA-Kistenpreise sind teils regional – Flugblatt deiner Region prüfen"
   },
   {
    "id": "wieselburger-billaplus-20-kw46",
@@ -1709,7 +1542,8 @@
    ],
    "url": "https://aktionsradar.at/angebot/wieselburger-gold-1-kiste-60239",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567",
-   "pack": "Flasche"
+   "pack": "Flasche",
+   "note": "BILLA-Kistenpreise sind teils regional – Flugblatt deiner Region prüfen"
   },
   {
    "brand": "Wieselburger",
@@ -1731,8 +1565,7 @@
     "S",
     "ST",
     "K",
-    "T",
-    "V"
+    "T"
    ],
    "types": [
     "Spezial"
@@ -1766,35 +1599,6 @@
    "retailerUrl": "https://aktionsradar.at/flugblatt/maximarkt/aktuelles-flugblatt-569",
    "pack": "Flasche",
    "condition": "max. 4 Kisten"
-  },
-  {
-   "id": "zipfer-hofer-20-kw46",
-   "brand": "Zipfer",
-   "product": "Zipfer Märzen 20 × 0,5 l",
-   "types": [
-    "Märzen"
-   ],
-   "retailer": "Hofer",
-   "format": "Kiste",
-   "units": 20,
-   "volumeL": 0.5,
-   "price": 13.0,
-   "validFrom": "2026-11-13",
-   "validTo": "2026-11-21",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/zipfer-maerzen-20-x-61031",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/hofer/aktuelle-angebote-570",
-   "pack": "Flasche"
   },
   {
    "brand": "Zipfer",
@@ -1895,23 +1699,42 @@
    "states": [
     "W",
     "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
+    "B"
    ],
    "url": "https://aktionsradar.at/angebot/zwettler-export-lager-05-60295",
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa/aktuelle-angebote-563",
-   "pack": "Flasche"
+   "pack": "Flasche",
+   "note": "Gültig in Wien, Niederösterreich und im nördlichen Burgenland; auch im 6er-Träger"
+  },
+  {
+   "id": "zwettler-export-billaplus-20-kw46",
+   "brand": "Zwettler",
+   "product": "Zwettler Export Lager Kiste 20 × 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "BILLA PLUS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-12",
+   "validTo": "2026-11-18",
+   "states": [
+    "W",
+    "NOE",
+    "B"
+   ],
+   "pack": "Flasche",
+   "note": "Gültig in Wien, Niederösterreich und im nördlichen Burgenland; auch im 6er-Träger",
+   "url": "https://www.marktguru.at/b/zwettler",
+   "retailerUrl": "https://aktionsradar.at/flugblatt/billa-plus/aktuelle-angebote-567"
   }
  ],
  "promos": [
   {
    "detail": "Rabattpickerl aus dem Flugblatt bzw. der jö äpp an der Kassa einlösen: pro Tag bis zu 3 Pickerl plus 3 jö-äpp-Pickerl, je Pickerl ein Produkt. Gilt auch für Bier: eine originale Kiste, ein Tray oder Träger zählt als ein Stück. Nicht kombinierbar mit anderen Rabatten sowie Gratis- und Extrem-Aktionen (1+1, 2+1 usw.).",
-   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 12.11.); die Pickerl wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
+   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 15.11.); die Pickerl wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1934,7 +1757,7 @@
   },
   {
    "detail": "Einmal pro Monat bis zu 20 % auf einen ganzen Einkauf bis 250 €, gegen Ös im jö Bonus Club. Nicht mit anderen Rabatten kombinierbar.",
-   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 12.11.).",
+   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 15.11.).",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1957,8 +1780,8 @@
   }
  ],
  "meta": {
-  "label": "14. November 2026",
-  "week": "KW 46 · Flugblätter 14.10.–21.11.",
+  "label": "15. November 2026",
+  "week": "KW 46 · Flugblätter 28.10.–21.11.",
   "sources": [
    {
     "name": "marktguru.at",
