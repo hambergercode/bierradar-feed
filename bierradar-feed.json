@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-16T05:42:36+01:00",
+ "generatedAt": "2026-11-17T05:43:23+01:00",
  "deals": [
   {
    "id": "chiemseer-mpreis-20-kw45",
@@ -233,6 +233,31 @@
    "condition": "ab 24 Dosen"
   },
   {
+   "id": "egger-mpreis-tray-6-kw47",
+   "brand": "Egger",
+   "product": "Egger Märzen 6 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "MPREIS",
+   "format": "Tray",
+   "units": 6,
+   "volumeL": 0.5,
+   "price": 3.45,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://www.marktguru.at/b/egger",
+   "regular": 6.9,
+   "note": "Einweg, exkl. Pfand"
+  },
+  {
    "id": "fohrenburger-spar-20-kw46",
    "brand": "Fohrenburger",
    "product": "Fohrenburger Jubiläum",
@@ -429,6 +454,36 @@
    ],
    "url": "https://aktionsradar.at/angebot/maerzen-oder-radler-kiste-59634",
    "pack": "Flasche"
+  },
+  {
+   "id": "heineken-billa-033-kw47",
+   "brand": "Heineken",
+   "product": "Heineken oder Heineken 0,0 % 0,33 l Einweg",
+   "types": [
+    "Lager",
+    "Alkoholfrei"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.33,
+   "price": 0.86,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/heineken",
+   "regular": 1.72,
+   "container": "Einweg"
   },
   {
    "id": "heineken-spar-tray-6-kw46",
@@ -818,6 +873,34 @@
    "pack": "Flasche"
   },
   {
+   "id": "ottakringer-billa-05-kw47",
+   "brand": "Ottakringer",
+   "product": "Ottakringer Helles 0,5 l",
+   "types": [
+    "Helles"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.69,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/ottakringer",
+   "regular": 1.39
+  },
+  {
    "id": "ottakringer-maximarkt-05-kw46",
    "brand": "Ottakringer",
    "product": "Ottakringer Helles, Lager oder Frucade Radler",
@@ -906,6 +989,31 @@
    "container": "Dose",
    "url": "https://aktionsradar.at/angebot/ottakringer-helles-lager-oder-61455",
    "retailerUrl": "https://aktionsradar.at/flugblatt/spar/aktuelle-angebote-574"
+  },
+  {
+   "id": "puntigamer-billa-20-kw47",
+   "brand": "Puntigamer",
+   "product": "Puntigamer Märzen Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "NOE",
+    "B",
+    "ST",
+    "K",
+    "T"
+   ],
+   "url": "https://www.marktguru.at/b/puntigamer",
+   "pack": "Flasche",
+   "note": "Laut Flugblatt gültig in Niederösterreich, im Burgenland, in der Steiermark und weiteren Regionen (Text gekürzt) – Angebot in deiner Filiale prüfen; auch im 6er-Träger"
   },
   {
    "id": "puntigamer-billaplus-20-kw46",
@@ -1023,6 +1131,34 @@
    "url": "https://www.marktguru.at/c/bier"
   },
   {
+   "id": "puntigamer-penny-033-kw47",
+   "brand": "Puntigamer",
+   "product": "Puntigamer „Das bierige Bier“ 0,33 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Penny",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.33,
+   "price": 0.79,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/puntigamer",
+   "regular": 1.38
+  },
+  {
    "id": "puntigamer-penny-05-kw46",
    "brand": "Puntigamer",
    "product": "Puntigamer Märzen 0,5 l Dose",
@@ -1082,6 +1218,34 @@
    "retailerUrl": "https://aktionsradar.at/flugblatt/billa/aktuelle-angebote-563",
    "pack": "Dose",
    "condition": "ab 24 Dosen"
+  },
+  {
+   "id": "schwechater-billa-05-kw47",
+   "brand": "Schwechater",
+   "product": "Schwechater Bier 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.59,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/schwechater",
+   "regular": 1.38
   },
   {
    "id": "schwechater-billaplus-05-kw46",
@@ -1236,6 +1400,34 @@
    "condition": "im 24er-Tray, max. 4 Trays pro Haushalt"
   },
   {
+   "id": "schwechater-penny-05-kw47",
+   "brand": "Schwechater",
+   "product": "Schwechater Bier 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "Penny",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.49,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/schwechater",
+   "regular": 1.38
+  },
+  {
    "brand": "Schwechater",
    "condition": "ab 24 Dosen (12+12 gratis)",
    "container": "Dose",
@@ -1266,6 +1458,35 @@
    "validTo": "2026-11-18",
    "volumeL": 0.5,
    "id": "schwechater-spar-05"
+  },
+  {
+   "id": "stiegl-billa-033-kw47",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu 0,33 l Einweg",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.33,
+   "price": 0.86,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/stiegl",
+   "regular": 1.29,
+   "container": "Einweg"
   },
   {
    "id": "stiegl-hofer-05-kw47",
@@ -1410,6 +1631,35 @@
    "pack": "Flasche",
    "condition": "Penny Pack ab 12 Flaschen",
    "note": "Pfandfrei"
+  },
+  {
+   "id": "stiegl-penny-20-kw47",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "Penny",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.4,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-21",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/stiegl",
+   "pack": "Flasche",
+   "note": "Preis exkl. Pfand"
   },
   {
    "brand": "Stiegl",
@@ -1593,6 +1843,29 @@
    "condition": "max. 4 Kisten"
   },
   {
+   "id": "zipfer-billa-20-kw47",
+   "brand": "Zipfer",
+   "product": "Zipfer Märzen Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "S",
+    "OOE",
+    "T"
+   ],
+   "url": "https://www.marktguru.at/b/zipfer",
+   "pack": "Flasche",
+   "note": "Gültig in Salzburg, Oberösterreich und Tirol; auch im 6er-Träger"
+  },
+  {
    "id": "zipfer-hofer-20-kw46",
    "brand": "Zipfer",
    "product": "Zipfer Märzen Kiste 20 × 0,5 l",
@@ -1680,6 +1953,56 @@
    "condition": "ab 2 × 12er-Tray (12+12 gratis), max. 4 Trays"
   },
   {
+   "id": "zipfer-mpreis-12-033-kw47",
+   "brand": "Zipfer",
+   "product": "Zipfer Märzen 12 × 0,33 l Einweg",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "MPREIS",
+   "format": "Tray",
+   "units": 12,
+   "volumeL": 0.33,
+   "price": 8.1,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://www.marktguru.at/b/zipfer",
+   "regular": 16.2,
+   "note": "Einweg"
+  },
+  {
+   "id": "zipfer-mpreis-20-kw47",
+   "brand": "Zipfer",
+   "product": "Zipfer Märzen Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "MPREIS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "T",
+    "V",
+    "S",
+    "K",
+    "OOE"
+   ],
+   "url": "https://www.marktguru.at/b/zipfer",
+   "pack": "Flasche",
+   "note": "exkl. Pfand"
+  },
+  {
    "id": "zipfer-mpreis-tray-6-033-kw46",
    "brand": "Zipfer",
    "product": "Zipfer Märzen Tray",
@@ -1756,7 +2079,7 @@
  "promos": [
   {
    "detail": "Rabattpickerl aus dem Flugblatt bzw. der jö äpp an der Kassa einlösen: pro Tag bis zu 3 Pickerl plus 3 jö-äpp-Pickerl, je Pickerl ein Produkt. Gilt auch für Bier: eine originale Kiste, ein Tray oder Träger zählt als ein Stück. Nicht kombinierbar mit anderen Rabatten sowie Gratis- und Extrem-Aktionen (1+1, 2+1 usw.).",
-   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 16.11.); die Pickerl wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
+   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 17.11.); die Pickerl wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1779,7 +2102,7 @@
   },
   {
    "detail": "Einmal pro Monat bis zu 20 % auf einen ganzen Einkauf bis 250 €, gegen Ös im jö Bonus Club. Nicht mit anderen Rabatten kombinierbar.",
-   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 16.11.).",
+   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 17.11.).",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1802,7 +2125,7 @@
   }
  ],
  "meta": {
-  "label": "16. November 2026",
+  "label": "17. November 2026",
   "week": "KW 47 · Flugblätter 28.10.–25.11.",
   "sources": [
    {
