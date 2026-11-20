@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-19T05:42:42+01:00",
+ "generatedAt": "2026-11-20T05:43:54+01:00",
  "deals": [
   {
    "id": "egger-hofer-05-kw47",
@@ -51,9 +51,10 @@
     "K",
     "OOE"
    ],
-   "url": "https://www.marktguru.at/b/egger",
+   "url": "https://www.mpreis.at/aktionen",
    "regular": 6.9,
-   "note": "Einweg, exkl. Pfand"
+   "note": "Einweg, exkl. Pfand; nur mit MPREIS App",
+   "condition": "ab 2 Stück (1+1 gratis)"
   },
   {
    "id": "franziskaner-mpreis-20-kw47",
@@ -639,7 +640,7 @@
    "format": "Kiste",
    "units": 20,
    "volumeL": 0.5,
-   "price": 14.8,
+   "price": 13.8,
    "validFrom": "2026-11-19",
    "validTo": "2026-11-25",
    "states": [
@@ -649,8 +650,9 @@
     "K",
     "OOE"
    ],
-   "url": "https://www.marktguru.at/rc/mpreis/bier",
-   "pack": "Flasche"
+   "url": "https://www.mpreis.at/aktionen",
+   "pack": "Flasche",
+   "note": "Preis nur mit MPREIS App; Mehrweg, exkl. Pfand"
   },
   {
    "id": "kozel-interspar-05-kw47",
@@ -988,8 +990,44 @@
     "T",
     "V"
    ],
-   "url": "https://www.marktguru.at/b/schwechater",
-   "regular": 1.38
+   "url": "https://www.billa.at/unsere-aktionen/aktionen",
+   "regular": 1.38,
+   "pack": "Dose",
+   "container": "Dose",
+   "condition": "ab 24 Dosen",
+   "note": "Extrem Aktion: max. 5 Kartons à 24 Dosen pro Haushalt; nicht an Sonn- und Feiertagen"
+  },
+  {
+   "id": "schwechater-billaplus-05-kw47",
+   "brand": "Schwechater",
+   "product": "Schwechater Bier 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "BILLA PLUS",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.59,
+   "validFrom": "2026-11-19",
+   "validTo": "2026-11-25",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.billa.at/unsere-aktionen/aktionen",
+   "regular": 1.38,
+   "pack": "Dose",
+   "container": "Dose",
+   "condition": "ab 24 Dosen",
+   "note": "Extrem Aktion: max. 5 Kartons à 24 Dosen pro Haushalt; nicht an Sonn- und Feiertagen"
   },
   {
    "id": "schwechater-penny-05-kw47",
@@ -1016,8 +1054,11 @@
     "T",
     "V"
    ],
-   "url": "https://www.marktguru.at/b/schwechater",
-   "regular": 1.38
+   "url": "https://sparkorb.at/angebote/bier",
+   "regular": 1.38,
+   "pack": "Dose",
+   "container": "Dose",
+   "condition": "ab 24 Stück"
   },
   {
    "id": "schwechater-spar-20-kw47",
@@ -1106,35 +1147,6 @@
    "url": "https://www.marktguru.at/b/stiegl",
    "regular": 1.29,
    "container": "Einweg"
-  },
-  {
-   "id": "stiegl-hofer-05-kw47",
-   "brand": "Stiegl",
-   "product": "Stiegl Goldbräu 0,5 l Dose",
-   "types": [
-    "Märzen"
-   ],
-   "retailer": "Hofer",
-   "format": "Einzel",
-   "units": 1,
-   "volumeL": 0.5,
-   "price": 0.79,
-   "validFrom": "2026-11-16",
-   "validTo": "2026-11-19",
-   "states": [
-    "W",
-    "NOE",
-    "B",
-    "OOE",
-    "S",
-    "ST",
-    "K",
-    "T",
-    "V"
-   ],
-   "url": "https://aktionsradar.at/angebot/stiegl-goldbraeu-05-l-61126",
-   "retailerUrl": "https://aktionsradar.at/flugblatt/hofer/aktuelle-angebote-570",
-   "pack": "Dose"
   },
   {
    "id": "stiegl-lidl-05-dose-kw47",
@@ -1461,9 +1473,10 @@
     "K",
     "OOE"
    ],
-   "url": "https://www.marktguru.at/b/zipfer",
+   "url": "https://www.mpreis.at/aktionen",
    "regular": 16.2,
-   "note": "Einweg"
+   "note": "Einweg; nur mit MPREIS App",
+   "condition": "ab 2 Stück (1+1 gratis)"
   },
   {
    "id": "zipfer-mpreis-20-kw47",
@@ -1486,15 +1499,15 @@
     "K",
     "OOE"
    ],
-   "url": "https://www.marktguru.at/b/zipfer",
+   "url": "https://www.mpreis.at/aktionen",
    "pack": "Flasche",
-   "note": "exkl. Pfand"
+   "note": "Preis nur mit MPREIS App; Mehrweg, exkl. Pfand"
   }
  ],
  "promos": [
   {
    "detail": "Rabattpickerl aus dem Flugblatt bzw. der jö äpp an der Kassa einlösen: pro Tag bis zu 3 Pickerl plus 3 jö-äpp-Pickerl, je Pickerl ein Produkt. Gilt auch für Bier: eine originale Kiste, ein Tray oder Träger zählt als ein Stück. Nicht kombinierbar mit anderen Rabatten sowie Gratis- und Extrem-Aktionen (1+1, 2+1 usw.).",
-   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 19.11.); die Pickerl wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
+   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 20.11.); die Gutscheine wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1517,7 +1530,7 @@
   },
   {
    "detail": "Einmal pro Monat bis zu 20 % auf einen ganzen Einkauf bis 250 €, gegen Ös im jö Bonus Club. Nicht mit anderen Rabatten kombinierbar.",
-   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 19.11.).",
+   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 20.11.).",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1540,7 +1553,7 @@
   }
  ],
  "meta": {
-  "label": "19. November 2026",
+  "label": "20. November 2026",
   "week": "KW 47 · Flugblätter 13.11.–02.12.",
   "sources": [
    {
