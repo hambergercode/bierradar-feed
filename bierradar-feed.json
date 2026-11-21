@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-20T05:43:54+01:00",
+ "generatedAt": "2026-11-21T05:43:30+01:00",
  "deals": [
   {
    "id": "egger-hofer-05-kw47",
@@ -288,9 +288,10 @@
   {
    "id": "goesser-hofer-033-kw48",
    "brand": "Gösser",
-   "product": "Gösser Märzen 0,33 l",
+   "product": "Gösser Märzen oder Naturradler 0,33 l",
    "types": [
-    "Märzen"
+    "Märzen",
+    "Radler"
    ],
    "retailer": "Hofer",
    "format": "Einzel",
@@ -310,7 +311,9 @@
     "T",
     "V"
    ],
-   "url": "https://www.marktguru.at/rc/hofer/bier"
+   "url": "https://www.marktguru.at/rc/hofer/bier",
+   "pack": "Flasche",
+   "retailerUrl": "https://www.hofer.at/flugblatt/bier-aktionen"
   },
   {
    "id": "goesser-hofer-05-kw47",
@@ -338,7 +341,9 @@
     "V"
    ],
    "url": "https://www.marktguru.at/rc/hofer/bier",
-   "container": "Einweg"
+   "container": "Einweg",
+   "pack": "Dose",
+   "retailerUrl": "https://www.hofer.at/flugblatt/bier-aktionen"
   },
   {
    "id": "goesser-hofer-20-kw47",
@@ -963,7 +968,8 @@
     "V"
    ],
    "url": "https://www.marktguru.at/b/puntigamer",
-   "regular": 1.38
+   "regular": 1.38,
+   "pack": "Flasche"
   },
   {
    "id": "schwechater-billa-05-kw47",
@@ -1507,7 +1513,7 @@
  "promos": [
   {
    "detail": "Rabattpickerl aus dem Flugblatt bzw. der jö äpp an der Kassa einlösen: pro Tag bis zu 3 Pickerl plus 3 jö-äpp-Pickerl, je Pickerl ein Produkt. Gilt auch für Bier: eine originale Kiste, ein Tray oder Träger zählt als ein Stück. Nicht kombinierbar mit anderen Rabatten sowie Gratis- und Extrem-Aktionen (1+1, 2+1 usw.).",
-   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 20.11.); die Gutscheine wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
+   "note": "Programm laut BILLA-Seite weiterhin aktiv (geprüft 21.11.); die Gutscheine wechseln wöchentlich, aktueller Wochenzeitraum nicht bestätigt.",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1530,7 +1536,7 @@
   },
   {
    "detail": "Einmal pro Monat bis zu 20 % auf einen ganzen Einkauf bis 250 €, gegen Ös im jö Bonus Club. Nicht mit anderen Rabatten kombinierbar.",
-   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 20.11.).",
+   "note": "Laut BILLA-Seite gültig bis auf Widerruf (geprüft 21.11.).",
    "retailerLabel": "BILLA & BILLA PLUS",
    "retailers": [
     "BILLA"
@@ -1553,7 +1559,7 @@
   }
  ],
  "meta": {
-  "label": "20. November 2026",
+  "label": "21. November 2026",
   "week": "KW 47 · Flugblätter 13.11.–02.12.",
   "sources": [
    {
