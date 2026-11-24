@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-23T05:43:13+01:00",
+ "generatedAt": "2026-11-24T05:42:28+01:00",
  "deals": [
   {
    "id": "egger-hofer-05-kw47",
@@ -796,6 +796,59 @@
    "condition": "ab 24 Flaschen"
   },
   {
+   "id": "puntigamer-billa-033-kw48",
+   "brand": "Puntigamer",
+   "product": "Puntigamer Märzen 0,33 l Einweg",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.33,
+   "price": 0.69,
+   "regular": 1.38,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "ST",
+    "K",
+    "T",
+    "B"
+   ],
+   "container": "Einweg",
+   "note": "Laut Flugblatt nur gültig in der Steiermark, in Kärnten, Osttirol und dem südlichen Burgenland",
+   "url": "https://www.marktguru.at/rc/billa/bier"
+  },
+  {
+   "id": "puntigamer-billa-05-kw48",
+   "brand": "Puntigamer",
+   "product": "Puntigamer Das Bierige Bier 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.69,
+   "regular": 1.54,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/puntigamer"
+  },
+  {
    "id": "puntigamer-billa-20-kw47",
    "brand": "Puntigamer",
    "product": "Puntigamer Märzen Kiste 20 × 0,5 l",
@@ -821,6 +874,31 @@
    "note": "Laut Flugblatt gültig in Niederösterreich, im Burgenland, in der Steiermark und weiteren Regionen (Text gekürzt) – Angebot in deiner Filiale prüfen; auch im 6er-Träger"
   },
   {
+   "id": "puntigamer-billa-20-kw48",
+   "brand": "Puntigamer",
+   "product": "Puntigamer Märzen Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 13.8,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "NOE",
+    "B",
+    "ST",
+    "K",
+    "T"
+   ],
+   "pack": "Flasche",
+   "note": "Laut Flugblatt gültig in Niederösterreich, im Burgenland, in der Steiermark und weiteren Regionen (Text gekürzt) – Angebot in deiner Filiale prüfen; auch im 6er-Träger",
+   "url": "https://www.marktguru.at/rc/billa/bier"
+  },
+  {
    "id": "puntigamer-billaplus-20-kw47",
    "brand": "Puntigamer",
    "product": "Puntigamer Das Bierige Bier Kiste 20 × 0,5 l",
@@ -844,6 +922,31 @@
    "pack": "Flasche",
    "note": "Laut Flugblatt gültig in Niederösterreich, im Burgenland und weiteren Regionen (Text gekürzt) – Angebot in deiner Filiale prüfen; auch im 6er-Träger",
    "url": "https://www.marktguru.at/b/puntigamer"
+  },
+  {
+   "id": "puntigamer-billaplus-20-kw48",
+   "brand": "Puntigamer",
+   "product": "Puntigamer Märzen Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA PLUS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 13.8,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "NOE",
+    "B",
+    "ST",
+    "K",
+    "T"
+   ],
+   "pack": "Flasche",
+   "note": "Laut Flugblatt gültig in Niederösterreich, im Burgenland, in der Steiermark und weiteren Regionen (Text gekürzt) – Angebot in deiner Filiale prüfen",
+   "url": "https://www.marktguru.at/rc/billa-plus/bier"
   },
   {
    "id": "puntigamer-lidl-12-kw48",
@@ -1086,6 +1189,94 @@
    "container": "Einweg"
   },
   {
+   "id": "stiegl-billa-05-kw48",
+   "brand": "Stiegl",
+   "product": "Stiegl ausgewählte Sorten 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Einzel",
+   "units": 1,
+   "volumeL": 0.5,
+   "price": 0.79,
+   "regular": 1.59,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "url": "https://www.marktguru.at/b/stiegl"
+  },
+  {
+   "id": "stiegl-billa-20-kw48",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu oder Hell Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen",
+    "Helles"
+   ],
+   "retailer": "BILLA",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "note": "auch im 6er-Träger",
+   "url": "https://www.marktguru.at/b/stiegl"
+  },
+  {
+   "id": "stiegl-billaplus-20-kw48",
+   "brand": "Stiegl",
+   "product": "Stiegl Goldbräu oder Hell Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen",
+    "Helles"
+   ],
+   "retailer": "BILLA PLUS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "note": "auch im 6er-Träger",
+   "url": "https://www.marktguru.at/b/stiegl"
+  },
+  {
    "id": "tegernseer-spar-05-kw47",
    "brand": "Tegernseer",
    "product": "Tegernseer Hell alkoholfrei 0,5 l",
@@ -1141,6 +1332,28 @@
    "pack": "Flasche",
    "note": "Nur in ADEG Aktiv-Märkten; Bundesländer nicht im Flugblatt angegeben – Verfügbarkeit in deiner ADEG-Filiale prüfen",
    "url": "https://www.marktguru.at/b/villacher"
+  },
+  {
+   "id": "villacher-billa-20-kw48",
+   "brand": "Villacher",
+   "product": "Villacher Märzen Kiste 20 × 0,5 l",
+   "types": [
+    "Märzen"
+   ],
+   "retailer": "BILLA",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-26",
+   "validTo": "2026-12-02",
+   "states": [
+    "K",
+    "T"
+   ],
+   "pack": "Flasche",
+   "note": "Laut Flugblatt nur in Kärnten und Osttirol; auch im 6er-Träger",
+   "url": "https://www.marktguru.at/rc/billa/bier"
   },
   {
    "id": "wieselburger-adeg-20-kw47",
@@ -1456,7 +1669,7 @@
   }
  ],
  "meta": {
-  "label": "23. November 2026",
+  "label": "24. November 2026",
   "week": "KW 48 · Flugblätter 18.11.–02.12.",
   "sources": [
    {
