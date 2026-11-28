@@ -1,590 +1,702 @@
 {
  "schema": 1,
  "region": "BW",
- "generatedAt": "2026-11-28T11:34:04+01:00",
+ "generatedAt": "2026-11-28T12:35:29+01:00",
  "deals": [
   {
-   "id": "arcobraeu-edeka-20-kw48",
    "brand": "Arcobräu",
-   "product": "Arcobräu Mooser Liesl",
-   "types": [
-    "Helles"
-   ],
-   "retailer": "EDEKA",
    "format": "Kiste",
-   "units": 20,
-   "volumeL": 0.5,
+   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
    "price": 15.99,
-   "validFrom": "2026-11-23",
-   "validTo": "2026-11-28",
+   "product": "Arcobräu Mooser Liesl",
+   "retailer": "EDEKA",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
+   "types": [
+    "Helles"
+   ],
+   "units": 20,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
+   "validFrom": "2026-11-23",
+   "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "arcobraeu-edeka-20-kw48"
   },
   {
-   "id": "becks-netto-20-kw48",
    "brand": "Beck's",
+   "format": "Kiste",
+   "note": "Mit der Netto-Plus-App 9,99 €",
+   "pack": "Flasche",
+   "price": 10.99,
    "product": "Beck's Pils",
+   "retailer": "Netto Marken-Discount",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
    "types": [
     "Pils"
    ],
-   "retailer": "Netto Marken-Discount",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 10.99,
+   "url": "https://www.marktguru.de/c/bier",
    "validFrom": "2026-11-22",
    "validTo": "2026-11-28",
-   "states": [
-    "STU",
-    "KA",
-    "FR",
-    "TUE"
-   ],
-   "pack": "Flasche",
-   "note": "Mit der Netto-Plus-App 9,99 €",
-   "url": "https://www.marktguru.de/c/bier"
-  },
-  {
-   "id": "becks-netto-6x033-kw49",
-   "brand": "Beck's",
-   "product": "Beck's Pils Sixpack",
-   "types": [
-    "Pils"
-   ],
-   "retailer": "Netto Marken-Discount",
-   "format": "Tray",
-   "units": 6,
-   "volumeL": 0.33,
-   "price": 3.99,
-   "regular": 4.99,
-   "validFrom": "2026-11-30",
-   "validTo": "2026-12-05",
-   "states": [
-    "STU",
-    "KA",
-    "FR",
-    "TUE"
-   ],
-   "pack": "Flasche",
-   "url": "https://www.discounto.de/Angebot/Beck-s-Pils-6-x-0-33-Liter-Flasche-9289238/"
-  },
-  {
-   "id": "becks-netto-dose-kw49",
-   "brand": "Beck's",
-   "product": "Beck's Pils",
-   "types": [
-    "Pils"
-   ],
-   "retailer": "Netto Marken-Discount",
-   "format": "Einzel",
-   "units": 1,
    "volumeL": 0.5,
-   "price": 0.79,
-   "regular": 1.09,
-   "validFrom": "2026-11-30",
-   "validTo": "2026-12-05",
+   "id": "becks-netto-20-kw48"
+  },
+  {
+   "brand": "Beck's",
+   "format": "Tray",
+   "pack": "Flasche",
+   "price": 3.99,
+   "product": "Beck's Pils Sixpack",
+   "regular": 4.99,
+   "retailer": "Netto Marken-Discount",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Dose",
-   "container": "Dose",
-   "note": "nur in der Filiale",
-   "url": "https://www.discounto.de/Angebot/Becks-Pils-Dose-0-5-Liter-9716181/"
+   "types": [
+    "Pils"
+   ],
+   "units": 6,
+   "url": "https://www.discounto.de/Angebot/Beck-s-Pils-6-x-0-33-Liter-Flasche-9289238/",
+   "validFrom": "2026-11-30",
+   "validTo": "2026-12-05",
+   "volumeL": 0.33,
+   "id": "becks-netto-6x033-kw49"
   },
   {
-   "id": "benediktiner-rewe-20-kw48",
+   "brand": "Beck's",
+   "container": "Dose",
+   "format": "Einzel",
+   "note": "nur in der Filiale",
+   "pack": "Dose",
+   "price": 0.79,
+   "product": "Beck's Pils",
+   "regular": 1.09,
+   "retailer": "Netto Marken-Discount",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
+   "types": [
+    "Pils"
+   ],
+   "units": 1,
+   "url": "https://www.discounto.de/Angebot/Becks-Pils-Dose-0-5-Liter-9716181/",
+   "validFrom": "2026-11-30",
+   "validTo": "2026-12-05",
+   "volumeL": 0.5,
+   "id": "becks-netto-dose-kw49"
+  },
+  {
    "brand": "Benediktiner",
+   "format": "Kiste",
+   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 14.99,
    "product": "Benediktiner Hell",
+   "retailer": "REWE",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
    "types": [
     "Helles"
    ],
-   "retailer": "REWE",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 14.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "benediktiner-rewe-20-kw48"
+  },
+  {
+   "brand": "Bitburger",
+   "format": "Kiste",
+   "note": "Preis aus dem Marktkauf-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 9.99,
+   "product": "Bitburger Premium Pils",
+   "retailer": "Marktkauf",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "bitburger-marktkauf-20-kw48",
-   "brand": "Bitburger",
-   "product": "Bitburger Premium Pils",
    "types": [
     "Pils"
    ],
-   "retailer": "Marktkauf",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 9.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "bitburger-marktkauf-20-kw48"
+  },
+  {
+   "brand": "Bud",
+   "format": "Kiste",
+   "pack": "Flasche",
+   "price": 12.99,
+   "product": "Bud Lagerbier",
+   "retailer": "Kaufland",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem Marktkauf-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "budvar-kaufland-20-kw48",
-   "brand": "Budweiser Budvar",
-   "product": "Budweiser Budvar Original",
    "types": [
     "Lager"
    ],
-   "retailer": "Kaufland",
-   "format": "Kiste",
-   "units": 20,
-   "volumeL": 0.5,
-   "price": 14.99,
-   "validFrom": "2026-11-25",
+   "units": 24,
+   "url": "https://www.marktguru.de/c/bier",
+   "validFrom": "2026-11-22",
    "validTo": "2026-11-28",
+   "volumeL": 0.3,
+   "id": "bud-kaufland-24x03-kw48"
+  },
+  {
+   "brand": "Budweiser Budvar",
+   "format": "Kiste",
+   "pack": "Flasche",
+   "price": 14.99,
+   "product": "Budweiser Budvar Original",
+   "retailer": "Kaufland",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "url": "https://www.marktguru.de/c/bier"
+   "types": [
+    "Lager"
+   ],
+   "units": 20,
+   "url": "https://www.marktguru.de/c/bier",
+   "validFrom": "2026-11-25",
+   "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "budvar-kaufland-20-kw48"
   },
   {
-   "id": "chiemseer-edeka-20-kw48",
+   "brand": "Budweiser Budvar",
+   "format": "Kiste",
+   "price": 12.99,
+   "product": "Budweiser Budvar Original Lagerbier",
+   "retailer": "Netto Marken-Discount",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
+   "types": [
+    "Lager"
+   ],
+   "units": 20,
+   "url": "https://www.marktguru.de/c/bier",
+   "validFrom": "2026-11-27",
+   "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "budvar-netto-20-kw48"
+  },
+  {
    "brand": "Chiemseer",
+   "format": "Kiste",
+   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 14.99,
    "product": "Chiemseer Hell",
+   "regular": 19.99,
+   "retailer": "EDEKA",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
    "types": [
     "Helles"
    ],
-   "retailer": "EDEKA",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 14.99,
-   "regular": 19.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "chiemseer-edeka-20-kw48"
+  },
+  {
+   "brand": "Corona",
+   "format": "Tray",
+   "price": 5.49,
+   "product": "Corona Extra Sixpack",
+   "retailer": "Lidl",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
+   "types": [
+    "Lager"
+   ],
+   "units": 6,
+   "url": "https://www.marktguru.de/rc/lidl/bier",
+   "validFrom": "2026-11-22",
+   "validTo": "2026-11-28",
+   "volumeL": 0.33,
+   "id": "corona-lidl-6x033-kw48"
   },
   {
-   "id": "franziskaner-edeka-20-kw48",
+   "brand": "Flensburger",
+   "format": "Kiste",
+   "pack": "Flasche",
+   "price": 12.99,
+   "product": "Flensburger Winterbock",
+   "retailer": "Netto Marken-Discount",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
+   "types": [
+    "Export"
+   ],
+   "units": 20,
+   "url": "https://www.marktguru.de/rc/netto-marken-discount/bier",
+   "validFrom": "2026-11-22",
+   "validTo": "2026-11-28",
+   "volumeL": 0.33,
+   "id": "flensburger-winterbock-netto-20-kw48"
+  },
+  {
    "brand": "Franziskaner",
+   "format": "Kiste",
+   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 12.99,
    "product": "Franziskaner Weißbier Naturtrüb",
+   "retailer": "EDEKA",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
    "types": [
     "Weizen"
    ],
-   "retailer": "EDEKA",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 12.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
-   "states": [
-    "STU",
-    "KA",
-    "FR",
-    "TUE"
-   ],
-   "pack": "Flasche",
-   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
+   "volumeL": 0.5,
+   "id": "franziskaner-edeka-20-kw48"
   },
   {
-   "id": "franziskaner-marktkauf-20-kw48",
    "brand": "Franziskaner",
-   "product": "Franziskaner Weißbier Naturtrüb",
-   "types": [
-    "Weizen"
-   ],
-   "retailer": "Marktkauf",
    "format": "Kiste",
-   "units": 20,
-   "volumeL": 0.5,
-   "price": 12.99,
-   "validFrom": "2026-11-23",
-   "validTo": "2026-11-28",
-   "states": [
-    "STU",
-    "KA",
-    "FR",
-    "TUE"
-   ],
-   "pack": "Flasche",
    "note": "Preis aus dem Marktkauf-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
+   "pack": "Flasche",
+   "price": 12.99,
+   "product": "Franziskaner Weißbier Naturtrüb",
+   "retailer": "Marktkauf",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
+   "types": [
+    "Weizen"
+   ],
+   "units": 20,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
+   "validFrom": "2026-11-23",
+   "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "franziskaner-marktkauf-20-kw48"
   },
   {
-   "id": "hasseroeder-netto-2x20-kw49",
    "brand": "Hasseröder",
+   "condition": "nur als Doppelpack (2 × 20 × 0,5 l)",
+   "format": "Kiste",
+   "note": "In der Produktbeschreibung steht abweichend 16,00 € statt 33,98 € – im Markt prüfen",
+   "pack": "Flasche",
+   "price": 15.77,
    "product": "Hasseröder Premium Pils, 2 Kästen",
+   "regular": 35.98,
+   "retailer": "Netto Marken-Discount",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
    "types": [
     "Pils"
    ],
-   "retailer": "Netto Marken-Discount",
-   "format": "Kiste",
    "units": 40,
-   "volumeL": 0.5,
-   "price": 15.77,
-   "regular": 35.98,
+   "url": "https://www.discounto.de/Angebot/Hasseroeder-Premium-Pils-2-Kaesten-2-x-20-x-0-5-Liter-9917507/",
    "validFrom": "2026-11-30",
    "validTo": "2026-12-05",
+   "volumeL": 0.5,
+   "id": "hasseroeder-netto-2x20-kw49"
+  },
+  {
+   "brand": "Jever",
+   "format": "Kiste",
+   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 11.99,
+   "product": "Jever Pilsener",
+   "retailer": "REWE",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "condition": "nur als Doppelpack (2 × 20 × 0,5 l)",
-   "note": "In der Produktbeschreibung steht abweichend 16,00 € statt 33,98 € – im Markt prüfen",
-   "url": "https://www.discounto.de/Angebot/Hasseroeder-Premium-Pils-2-Kaesten-2-x-20-x-0-5-Liter-9917507/"
-  },
-  {
-   "id": "jever-rewe-20-kw48",
-   "brand": "Jever",
-   "product": "Jever Pilsener",
    "types": [
     "Pils"
    ],
-   "retailer": "REWE",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 11.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "jever-rewe-20-kw48"
+  },
+  {
+   "brand": "Mönchshof",
+   "format": "Kiste",
+   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 12.66,
+   "product": "Kulmbacher Mönchshof Spezialitäten",
+   "regular": 17.99,
+   "retailer": "EDEKA",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "moenchshof-edeka-20-kw48",
-   "brand": "Mönchshof",
-   "product": "Kulmbacher Mönchshof Spezialitäten",
    "types": [
     "Kellerbier"
    ],
-   "retailer": "EDEKA",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 12.66,
-   "regular": 17.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "moenchshof-edeka-20-kw48"
+  },
+  {
+   "brand": "Mönchshof",
+   "format": "Kiste",
+   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 13.99,
+   "product": "Kulmbacher Mönchshof Brauspezialitäten",
+   "retailer": "REWE",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem EDEKA-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "moenchshof-rewe-20-kw48",
-   "brand": "Mönchshof",
-   "product": "Kulmbacher Mönchshof Brauspezialitäten",
    "types": [
     "Kellerbier",
     "Alkoholfrei"
    ],
-   "retailer": "REWE",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 13.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "moenchshof-rewe-20-kw48"
+  },
+  {
+   "brand": "Oettinger",
+   "format": "Kiste",
+   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 6.99,
+   "product": "Oettinger Pils",
+   "retailer": "REWE",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "oettinger-rewe-20-kw48",
-   "brand": "Oettinger",
-   "product": "Oettinger Pils",
    "types": [
     "Pils"
    ],
-   "retailer": "REWE",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 6.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "oettinger-rewe-20-kw48"
+  },
+  {
+   "brand": "Paulaner",
+   "format": "Kiste",
+   "pack": "Flasche",
+   "price": 13.99,
+   "product": "Paulaner Hefe-Weißbier Naturtrüb, auch alkoholfrei",
+   "retailer": "Kaufland",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "paulaner-kaufland-20-kw48",
-   "brand": "Paulaner",
-   "product": "Paulaner Hefe-Weißbier Naturtrüb, auch alkoholfrei",
    "types": [
     "Weizen",
     "Alkoholfrei"
    ],
-   "retailer": "Kaufland",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 13.99,
+   "url": "https://www.marktguru.de/c/bier",
    "validFrom": "2026-11-25",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "paulaner-kaufland-20-kw48"
+  },
+  {
+   "brand": "Paulaner",
+   "format": "Kiste",
+   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 13.99,
+   "product": "Paulaner Weißbier",
+   "retailer": "REWE",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "url": "https://www.marktguru.de/c/bier"
-  },
-  {
-   "id": "paulaner-weissbier-rewe-20-kw48",
-   "brand": "Paulaner",
-   "product": "Paulaner Weißbier",
    "types": [
     "Weizen"
    ],
-   "retailer": "REWE",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 13.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "paulaner-weissbier-rewe-20-kw48"
+  },
+  {
+   "brand": "Radeberger",
+   "format": "Kiste",
+   "pack": "Flasche",
+   "price": 9.99,
+   "product": "Radeberger Pilsner",
+   "retailer": "Netto Marken-Discount",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "radeberger-netto-20-kw48",
-   "brand": "Radeberger",
-   "product": "Radeberger Pilsner",
    "types": [
     "Pils"
    ],
-   "retailer": "Netto Marken-Discount",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 9.99,
+   "url": "https://www.marktguru.de/rc/netto-marken-discount/bier",
    "validFrom": "2026-11-22",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "radeberger-netto-20-kw48"
+  },
+  {
+   "brand": "Schwaben Bräu",
+   "format": "Kiste",
+   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 13.99,
+   "product": "Schwaben Bräu Bügelspezialitäten",
+   "retailer": "REWE",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "url": "https://www.marktguru.de/rc/netto-marken-discount/bier"
-  },
-  {
-   "id": "schwabenbraeu-rewe-20-kw48",
-   "brand": "Schwaben Bräu",
-   "product": "Schwaben Bräu Bügelspezialitäten",
    "types": [
     "Export",
     "Helles"
    ],
-   "retailer": "REWE",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 13.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "schwabenbraeu-rewe-20-kw48"
+  },
+  {
+   "brand": "Tyskie",
+   "format": "Kiste",
+   "pack": "Flasche",
+   "price": 11.99,
+   "product": "Tyskie Premium Pils",
+   "retailer": "Kaufland",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Preis aus dem REWE-Prospekt für Weingarten; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "tyskie-kaufland-20-kw48",
-   "brand": "Tyskie",
-   "product": "Tyskie Premium Pils",
    "types": [
     "Pils"
    ],
-   "retailer": "Kaufland",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 11.99,
+   "url": "https://www.marktguru.de/c/bier",
    "validFrom": "2026-11-22",
    "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "tyskie-kaufland-20-kw48"
+  },
+  {
+   "brand": "Tyskie",
+   "format": "Tray",
+   "price": 5.29,
+   "product": "Tyskie Pils Sixpack",
+   "retailer": "Netto Marken-Discount",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "url": "https://www.marktguru.de/c/bier"
+   "types": [
+    "Pils"
+   ],
+   "units": 6,
+   "url": "https://www.marktguru.de/c/bier",
+   "validFrom": "2026-11-22",
+   "validTo": "2026-11-28",
+   "volumeL": 0.5,
+   "id": "tyskie-netto-6x05-kw48"
   },
   {
-   "id": "veltins-puelleken-rewe-24-kw48",
    "brand": "Veltins",
+   "format": "Kiste",
+   "note": "Gebinde aus dem Literpreis abgeleitet (ca. 7,9 l); regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 13.99,
    "product": "Veltins Helles Pülleken",
+   "retailer": "REWE",
+   "states": [
+    "STU",
+    "KA",
+    "FR",
+    "TUE"
+   ],
    "types": [
     "Helles"
    ],
-   "retailer": "REWE",
-   "format": "Kiste",
    "units": 24,
-   "volumeL": 0.33,
-   "price": 13.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
+   "volumeL": 0.33,
+   "id": "veltins-puelleken-rewe-24-kw48"
+  },
+  {
+   "brand": "Warsteiner",
+   "format": "Kiste",
+   "note": "Mit der Netto-Plus-App laut kaufda 9,99 €",
+   "pack": "Flasche",
+   "price": 10.99,
+   "product": "Warsteiner Premium Pilsener",
+   "regular": 17.99,
+   "retailer": "Netto Marken-Discount",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Gebinde aus dem Literpreis abgeleitet (ca. 7,9 l); regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
-  },
-  {
-   "id": "warsteiner-netto-20-kw49",
-   "brand": "Warsteiner",
-   "product": "Warsteiner Premium Pilsener",
    "types": [
     "Pils"
    ],
-   "retailer": "Netto Marken-Discount",
-   "format": "Kiste",
    "units": 20,
-   "volumeL": 0.5,
-   "price": 10.99,
-   "regular": 17.99,
+   "url": "https://www.discounto.de/Angebot/WARSTEINER-Premium-Pilsener-Kasten-20x0-5l-Flaschen-8509741/",
    "validFrom": "2026-11-30",
    "validTo": "2026-12-05",
+   "volumeL": 0.5,
+   "id": "warsteiner-netto-20-kw49"
+  },
+  {
+   "brand": "Warsteiner",
+   "format": "Tray",
+   "note": "Gebinde aus dem Literpreis abgeleitet; regional unterschiedlich",
+   "pack": "Flasche",
+   "price": 3.99,
+   "product": "Warsteiner Natur Radler Sixpack",
+   "retailer": "REWE",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "pack": "Flasche",
-   "note": "Mit der Netto-Plus-App laut kaufda 9,99 €",
-   "url": "https://www.discounto.de/Angebot/WARSTEINER-Premium-Pilsener-Kasten-20x0-5l-Flaschen-8509741/"
-  },
-  {
-   "id": "warsteiner-radler-rewe-6-kw48",
-   "brand": "Warsteiner",
-   "product": "Warsteiner Natur Radler Sixpack",
    "types": [
     "Radler"
    ],
-   "retailer": "REWE",
-   "format": "Tray",
    "units": 6,
-   "volumeL": 0.33,
-   "price": 3.99,
+   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier",
    "validFrom": "2026-11-23",
    "validTo": "2026-11-28",
-   "states": [
-    "STU",
-    "KA",
-    "FR",
-    "TUE"
-   ],
-   "pack": "Flasche",
-   "note": "Gebinde aus dem Literpreis abgeleitet; regional unterschiedlich",
-   "url": "https://www.kaufda.de/Weingarten-Wuertt/Angebote/Bier"
+   "volumeL": 0.33,
+   "id": "warsteiner-radler-rewe-6-kw48"
   }
  ],
  "promos": [
   {
-   "id": "netto-plus-app",
+   "detail": "Mit der digitalen Netto-Plus-Karte gelten an der Kasse eigene App-Preise, bei Bierkästen oft rund 1 € unter dem Prospektpreis (z. B. Warsteiner 9,99 € statt 10,99 €). Persönliche Coupons müssen vorher in der App aktiviert werden.",
+   "retailerLabel": "Netto Marken-Discount",
    "retailers": [
     "NETTO"
    ],
-   "retailerLabel": "Netto Marken-Discount",
-   "title": "Netto-Plus-App-Preise",
    "short": "manche Kästen mit der App 1 € günstiger",
-   "detail": "Mit der digitalen Netto-Plus-Karte gelten an der Kasse eigene App-Preise, bei Bierkästen oft rund 1 € unter dem Prospektpreis (z. B. Warsteiner 9,99 € statt 10,99 €). Persönliche Coupons müssen vorher in der App aktiviert werden.",
    "states": [
     "STU",
     "KA",
     "FR",
     "TUE"
    ],
-   "url": "https://www.discounto.de/Angebot/WARSTEINER-Premium-Pilsener-Kasten-20x0-5l-Flaschen-8509741/"
+   "title": "Netto-Plus-App-Preise",
+   "url": "https://www.discounto.de/Angebot/WARSTEINER-Premium-Pilsener-Kasten-20x0-5l-Flaschen-8509741/",
+   "id": "netto-plus-app"
   }
  ],
  "meta": {
-  "label": "28. November 2026",
-  "week": "KW 48/49 · Prospekte 22.11.–05.12.",
   "active": true,
+  "activeChangedAt": "2026-11-28T10:42:57.097Z",
+  "label": "28. November 2026",
   "sources": [
    {
     "name": "marktguru.de",
@@ -596,8 +708,9 @@
    },
    {
     "name": "discounto.de",
-    "url": "https://www.discounto.de/Angebot-Kategorie/Bier/"
+    "url": "https://www.discounto.de/Discounter/Netto-Marken-Discount/Angebot-Datum:naechste-woche/"
    }
-  ]
+  ],
+  "week": "KW 48 · Prospekte 22.11.–05.12."
  }
 }
