@@ -1,7 +1,37 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-27T05:42:49+01:00",
+ "generatedAt": "2026-11-28T05:44:23+01:00",
  "deals": [
+  {
+   "id": "augustiner-hell-interspar-20-kw48",
+   "brand": "Augustiner",
+   "product": "Augustiner Hell Kiste 20 × 0,5 l",
+   "types": [
+    "Helles"
+   ],
+   "price": 19.8,
+   "regular": 25.8,
+   "retailer": "Interspar",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "validFrom": "2026-11-25",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "url": "https://www.marktguru.at/rc/interspar/bier",
+   "note": "Gebinde laut Grundpreis 10 l (20 × 0,5 l) – im Markt prüfen"
+  },
   {
    "id": "augustiner-interspar-20-kw48",
    "brand": "Augustiner",
@@ -170,6 +200,37 @@
     "V"
    ],
    "url": "https://www.marktguru.at/rc/spar/bier"
+  },
+  {
+   "id": "franziskaner-interspar-20-kw48",
+   "brand": "Franziskaner",
+   "product": "Franziskaner Weissbier Hell, Dunkel oder Alkoholfrei Kiste 20 × 0,5 l",
+   "types": [
+    "Weizen",
+    "Alkoholfrei"
+   ],
+   "price": 16.8,
+   "regular": 25.8,
+   "retailer": "Interspar",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "validFrom": "2026-11-25",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "url": "https://www.marktguru.at/rc/interspar/bier",
+   "note": "Gebinde laut Grundpreis 10 l (20 × 0,5 l) – im Markt prüfen"
   },
   {
    "id": "goesser-billaplus-05-kw48",
@@ -468,7 +529,7 @@
   {
    "id": "goesser-penny-05-kw48",
    "brand": "Gösser",
-   "product": "Gösser Märzen oder Naturradler",
+   "product": "Gösser Märzen oder Naturradler 0,5 l Dose",
    "types": [
     "Märzen",
     "Radler"
@@ -492,8 +553,11 @@
     "T",
     "V"
    ],
-   "url": "https://www.marktguru.at/b/goesser",
-   "retailerUrl": "https://www.marktguru.at/rc/penny/bier"
+   "url": "https://www.penny.at/produkte/maerzen-78542238",
+   "retailerUrl": "https://www.marktguru.at/rc/penny/bier",
+   "pack": "Dose",
+   "container": "Dose",
+   "condition": "ab 24 Dosen"
   },
   {
    "id": "heineken-interspar-05-kw48",
@@ -1510,6 +1574,36 @@
    "url": "https://www.marktguru.at/b/stiegl"
   },
   {
+   "id": "tegernseer-hell-interspar-20-kw48",
+   "brand": "Tegernseer",
+   "product": "Tegernseer Hell Kiste 20 × 0,5 l",
+   "types": [
+    "Helles"
+   ],
+   "price": 19.8,
+   "regular": 25.8,
+   "retailer": "Interspar",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "validFrom": "2026-11-25",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B",
+    "OOE",
+    "S",
+    "ST",
+    "K",
+    "T",
+    "V"
+   ],
+   "pack": "Flasche",
+   "url": "https://www.marktguru.at/rc/interspar/bier",
+   "note": "Gebinde laut Grundpreis 10 l (20 × 0,5 l) – im Markt prüfen"
+  },
+  {
    "id": "tegernseer-spar-05-kw47",
    "brand": "Tegernseer",
    "product": "Tegernseer Hell alkoholfrei 0,5 l",
@@ -1660,7 +1754,7 @@
   {
    "id": "wieselburger-penny-05-kw48",
    "brand": "Wieselburger",
-   "product": "Wieselburger Gold",
+   "product": "Wieselburger Gold 0,5 l Dose",
    "types": [
     "Märzen"
    ],
@@ -1683,8 +1777,11 @@
     "T",
     "V"
    ],
-   "url": "https://www.marktguru.at/b/wieselburger",
-   "retailerUrl": "https://www.marktguru.at/rc/penny/bier"
+   "url": "https://www.penny.at/produkte/gold-78549543",
+   "retailerUrl": "https://www.marktguru.at/rc/penny/bier",
+   "pack": "Dose",
+   "container": "Dose",
+   "condition": "ab 24 Dosen"
   },
   {
    "id": "zipfer-billa-033-kw48",
@@ -1811,6 +1908,54 @@
    "retailerUrl": "https://www.hofer.at/flugblatt/bier-aktionen"
   },
   {
+   "id": "zwettler-export-billa-20-kw48",
+   "brand": "Zwettler",
+   "product": "Zwettler Export Lager Kiste 20 × 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "BILLA",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-25",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B"
+   ],
+   "pack": "Flasche",
+   "note": "gültig in Wien, Niederösterreich und im (nördlichen) Burgenland; auch im 6er-Träger",
+   "url": "https://www.marktguru.at/b/zwettler",
+   "retailerUrl": "https://www.marktguru.at/rc/billa/bier"
+  },
+  {
+   "id": "zwettler-export-billaplus-20-kw48",
+   "brand": "Zwettler",
+   "product": "Zwettler Export Lager Kiste 20 × 0,5 l",
+   "types": [
+    "Lager"
+   ],
+   "retailer": "BILLA PLUS",
+   "format": "Kiste",
+   "units": 20,
+   "volumeL": 0.5,
+   "price": 14.8,
+   "validFrom": "2026-11-25",
+   "validTo": "2026-12-02",
+   "states": [
+    "W",
+    "NOE",
+    "B"
+   ],
+   "pack": "Flasche",
+   "note": "gültig in Wien, Niederösterreich und im (nördlichen) Burgenland; auch im 6er-Träger",
+   "url": "https://www.marktguru.at/b/zwettler",
+   "retailerUrl": "https://www.marktguru.at/rc/billa-plus/bier"
+  },
+  {
    "id": "zwettler-penny-20-kw48",
    "brand": "Zwettler",
    "product": "Zwettler Stiftsbräu",
@@ -1851,7 +1996,7 @@
    "title": "25 %-Rabattgutscheine",
    "short": "an der Kassa einlösbar, Kiste oder Tray zählt als ein Stück",
    "detail": "Rabattpickerl aus dem Flugblatt bzw. der jö äpp an der Kassa einlösen: pro Tag bis zu 3 Pickerl plus 3 jö-äpp-Pickerl, je Pickerl ein Produkt. Gilt auch für Bier: eine originale Kiste, ein Tray oder Träger zählt als ein Stück. Nicht kombinierbar mit anderen Rabatten sowie Gratis- und Extrem-Aktionen (1+1, 2+1 usw.).",
-   "note": "Zuletzt bestätigt am 25.11.; am 27.11. nennt die BILLA-Aktionsseite keine 25 %-Pickerl für Bier (nur −25 % auf einzelne Kategorien wie Süßwaren) – aktuelles Flugblatt bzw. jö äpp prüfen.",
+   "note": "Zuletzt bestätigt am 25.11.; am 27. und 28.11. nennt die BILLA-Aktionsseite keine 25 %-Pickerl für Bier (nur −25 % auf einzelne Kategorien) – aktuelles Flugblatt bzw. jö äpp prüfen.",
    "states": [
     "W",
     "NOE",
@@ -1874,7 +2019,7 @@
    "title": "jö Rabattsammler bis −20 %",
    "short": "auf den ganzen Einkauf bis 250 €, 1× im Monat",
    "detail": "Einmal pro Monat bis zu 20 % auf einen ganzen Einkauf bis 250 €, gegen Ös im jö Bonus Club. Nicht mit anderen Rabatten kombinierbar; ausgenommen sind u. a. Extrem- und Gratis-Aktionen (z. B. 1+1) und Pfand.",
-   "note": "Laut BILLA-Aktionsseite weiterhin 1× im Monat einlösbar (geprüft 27.11.).",
+   "note": "Laut BILLA-Aktionsseite weiterhin 1× im Monat einlösbar (geprüft 28.11.).",
    "states": [
     "W",
     "NOE",
@@ -1890,7 +2035,7 @@
   }
  ],
  "meta": {
-  "label": "27. November 2026",
+  "label": "28. November 2026",
   "week": "KW 48 · Flugblätter 18.11.–16.12.",
   "sources": [
    {
